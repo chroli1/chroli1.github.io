@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div class="page-wrap with-sidebar">
+  {% if page.author_profile %}
+    {% include author-profile.html %}
+  {% endif %}
+  <article class="content">
+    {{ content }}
+  </article>
+</div>

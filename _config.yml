@@ -1,0 +1,91 @@
+title: "Christopher Oliver"
+name: "Christopher Oliver"
+description: "Research Associate in Quantum Physics"
+url: "https://yourusername.github.io"
+baseurl: ""
+repository: "yourusername/yourusername.github.io"
+
+plugins:
+  - jekyll-scholar
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
+
+permalink: /:categories/:title/
+
+include:
+  - _pages
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+author:
+  name: "Christopher Oliver"
+  avatar: "/images/profile.png"
+  bio: "Research Associate in theoretical quantum physics."
+  location: "Glasgow, UK"
+  employer: "University of Strathclyde"
+  email: ""
+  googlescholar: ""
+  orcid: ""
+  linkedin: ""
+
+collections:
+  talks:
+    output: true
+    permalink: /talks/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  blackboard:
+    output: true
+    permalink: /blackboard/:path/
+
+scholar:
+  style: apa
+  source: _bibliography
+  bibliography: papers.bib
+  bibliography_template: bib
+  sort_by: year
+  order: descending
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: blackboard
+    values:
+      layout: single
+      author_profile: true

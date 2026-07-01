@@ -1,0 +1,17 @@
+<article class="archive-item">
+  <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <p class="meta">
+    {% if post.type %}{{ post.type }}{% endif %}
+    {% if post.venue %}{% if post.type %} · {% endif %}{{ post.venue }}{% endif %}
+    {% if post.institution %}{% if post.type or post.venue %} · {% endif %}{{ post.institution }}{% endif %}
+    {% if post.date %}{% if post.type or post.venue or post.institution %} · {% endif %}{{ post.date | date: "%Y" }}{% endif %}
+  </p>
+  {% if post.tags %}
+    <p class="tags">
+      {% for tag in post.tags %}<span>{{ tag }}</span>{% endfor %}
+    </p>
+  {% endif %}
+  <div class="excerpt">
+    {{ post.excerpt | markdownify }}
+  </div>
+</article>
