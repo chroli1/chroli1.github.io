@@ -3,7 +3,7 @@ title: "A Quantum Hall Model for Photons Using Time as a Synthetic Dimension"
 collection: talks
 type: "Conference Talk"
 venue: "Condensed Matter Physics in the City"
-date: 2020--
+date: 2020-01-01
 location: "Online"
 ---
 

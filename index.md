@@ -27,6 +27,7 @@ Take a look at my current work under Projects, and see topics of interest below.
 - Numerical techniques: DMRG with ITensorMPS.jl, quantum Monte Carlo in PyALPS, neural network quantum states
 - Mathematics: real and complex analysis, stochastic calculus, differential equations, linear algebra, Fourier analysis, perturbation theory and asymptotics
 - Quantum computing platforms: Rigetti, ORCA, Aegiq, QuEra and D-Wave
+- Generative AI tools: MS Copilot and Claude to streamline workflows
 
 ## Physics I would like to explore
 - Quantum biology

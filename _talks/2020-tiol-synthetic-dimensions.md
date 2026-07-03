@@ -3,7 +3,7 @@ title: "Realising a Quantum Hall Model for Cold Atoms using Synthetic Dimensions
 collection: talks
 type: "Conference Talk"
 venue: "Topology and Interactions in Optical Lattices"
-date: 2020
+date: 2020-01-01
 location: "Online"
 ---
 
