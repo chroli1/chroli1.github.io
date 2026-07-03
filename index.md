@@ -3,60 +3,43 @@ layout: home
 author_profile: true
 ---
 
-Welcome! I am a Research Associate at the University of Strathclyde working on multimode cavity QED, non-Markovian quantum systems and disordered Bose models.
+I am a Research Associate (postdoc) at the University of Strathclyde (Glasgow, UK) in the group of [Peter Kirton](https://www.peterkirton.com/). I currently work on **multimode cavity QED, spin glasses, dissipative phase transitions and disordered Bose systems**.
 
-Previously, I worked at the UK National Quantum Computing Centre on analogue quantum applications, including neutral atom platforms.
+Previously, I worked at the National Quantum Computing Centre (Harwell, UK) as an Analogue Quantum Applications Engineer (2023 - 2025). I worked on **noise modelling in neutral atom quantum computers, quantum optimisation, benchmarking** and many other things. I completed my PhD at the University of Birmingham (UK) in June 2023, working on **topological band theory and the quantum Hall effect in cold atoms and photonics**, in the group of [Hannah Price](https://hannahmprice.com/). I started my physics life at the University of Birmingham, graduating with a first class MSci in Theoretical Physics in 2017. I also spent a year with the Scientific Computing Department at Harwell getting some professional software development experience.
+
+I have also spent time as a visiting scholar at the University of Trento with Iacopo Carusotto, and Stanford University in the group of Benjamin Lev.
+
+Take a look at my current work under Projects, and see topics of interest below. I'm always open to collaboration!
 
 📄 **[Download my CV]({{ "/files/CV.pdf" | relative_url }})**
 
----
+## Expertise
+- Open quantum systems: Linblad master equations and dissipative phase transitions
+- Cavity QED
+- Quantum feedback and quantum control
+- Neutral atom quantum computing theory and applications
+- Hybrid classical/quantum computing methods for quantum optimisation (quantum annealing, QAOA and VQE)
+- Topological band theory and the quantum Hall effect
+- Experimental platforms: 
+  - Photonics: coupled waveguide arrays, boson samplers
+  - Cold atoms: optical lattices, quantum gas microscopes, Rydberg tweezer arrays, atoms in optical cavities
+- Scientific computing tools: Python, Julia, C++, MATLAB, Mathematica, QuTiP, Linux sysadmin, HPC, Git/GitHub, LaTeX, professional software development practices
+- Numerical techniques: DMRG with ITensorMPS.jl, quantum Monte Carlo in PyALPS, neural network quantum states
+- Mathematics: real and complex analysis, stochastic calculus, linear algebra, Fourier analysis, perturbation theory and asymptotics
+- Quantum computing platforms: Rigetti, ORCA, Aegiq, QuEra and D-Wave
 
-## Research Interests
-- Quantum simulation
-- Cold atom systems
-- Photonics and synthetic dimensions
-- Open quantum systems
-- Quantum computing, especially neutral atom platforms
+## Physics I would like to explore
+- Quantum biology
+- Quantum error correction and its intersection with open quantum systems and condensed matter
+- Quantum simulation with interacting photons and its implementation in boson samplers
+- Photonic quantum computing
+- Any fun classical and staistical physics problems, e.g. mathematical biology, spin glasses...
+- Intersection of many-body quantum physics with nuclear physics, high-energy physics and general relativity
 
----
-
-## Current Work
-- Multimode cavity QED with cold atoms
-- Non-Markovian quantum systems
-- Disordered Bose models
-- Learning and applying tensor-network methods, Julia, HPC workflows and neural-network states
-
----
-
-## Research Projects Template
-Use this section for featured projects, or replace it with automatic highlights from the `_projects/` collection.
-
-- **Project title**
-  - Brief scientific motivation
-  - Methods and tools
-  - Key outputs or next steps
-
----
-
-## Topics I Am Interested in Learning About
-- Tensor-network methods for higher-dimensional and open systems
-- Neural-network quantum states
-- Advanced non-Markovian open-system techniques
-- Scalable simulation tools for many-body quantum dynamics
-- Quantum benchmarking and noise modelling
+## Techniques I would like to learn
+- Transformers, diffusion models and their applications in physics
+- Algorithms for non-Markovian open quantum systems (process tensors, ACE, TEMPO...)
+- More numerical methods for many-body open systems, e.g. truncated Wigner, HOPS, HEOM...
+- More advanced mathematical physics, especially group theory
 
 ---
-
-## What I Look for in Collaborators
-I am especially interested in collaborators who:
-
-- Work at the interface of theory and experiment
-- Value clear communication and reproducible workflows
-- Are open to exploratory, early-stage research ideas
-- Bring complementary expertise in AMO physics, photonics, quantum computing or numerical methods
-
-Potential collaboration directions include:
-
-- Cold atom or photonics experiments with strong theoretical components
-- Noise modelling and benchmarking in quantum computing platforms
-- Novel approaches to many-body quantum dynamics

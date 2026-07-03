@@ -2,9 +2,9 @@
 title: "Bloch oscillations along a synthetic dimension of atomic trap states"
 collection: talks
 type: "Conference Talk"
-venue: "YAO"
+venue: "DesOEQ meeting"
 date: 2022
-location: "Stuttgart, Germany"
+location: "Glasgow, UK"
 ---
 
-Conference talk on Bloch oscillations and synthetic dimensions formed from atomic trap states.
+Conference talk on Bloch oscillations and synthetic dimensions in atomic trap states.

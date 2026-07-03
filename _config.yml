@@ -1,6 +1,6 @@
-title: "Christopher Oliver"
-name: "Christopher Oliver"
-description: "Research Associate in Quantum Physics"
+title: "Chris Oliver"
+name: "Chris Oliver"
+description: "Postdoc in open quantum systems"
 url: "https://yourusername.github.io"
 baseurl: ""
 repository: "yourusername/yourusername.github.io"
@@ -26,23 +26,21 @@ exclude:
   - vendor
 
 author:
-  name: "Christopher Oliver"
+  name: "Chris Oliver"
   avatar: "/images/profile.png"
-  bio: "Research Associate in theoretical quantum physics."
-  location: "Glasgow, UK"
+  bio: "Postdoc in open quantum systems"
+  location: "Glasgow, UK :scotland:"
   employer: "University of Strathclyde"
   email: ""
   googlescholar: ""
   orcid: ""
   linkedin: ""
+  github: ""
 
 collections:
   talks:
     output: true
     permalink: /talks/:path/
-  teaching:
-    output: true
-    permalink: /teaching/:path/
   projects:
     output: true
     permalink: /projects/:path/
@@ -68,12 +66,6 @@ defaults:
   - scope:
       path: ""
       type: talks
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: teaching
     values:
       layout: single
       author_profile: true
