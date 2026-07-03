@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Seminar"
 venue: "Heriot-Watt University"
 date: 2020
-location: "Edinburgh, UK [remote]"
+location: "Edinburgh, UK [online]"
 ---
 
 Invited seminar on synthetic dimensions techniques in cold atom platforms.

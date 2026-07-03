@@ -7,7 +7,7 @@ I am a Research Associate (postdoc) at the University of Strathclyde (Glasgow, U
 
 Previously, I worked at the National Quantum Computing Centre (Harwell, UK) as an Analogue Quantum Applications Engineer (2023 - 2025). I worked on **noise modelling in neutral atom quantum computers, quantum optimisation, benchmarking** and many other things. I completed my PhD at the University of Birmingham (UK) in June 2023, working on **topological band theory and the quantum Hall effect in cold atoms and photonics**, in the group of [Hannah Price](https://hannahmprice.com/). I started my physics life at the University of Birmingham, graduating with a first class MSci in Theoretical Physics in 2017. I also spent a year with the Scientific Computing Department at Harwell getting some professional software development experience.
 
-I have also spent time as a visiting scholar at the University of Trento with Iacopo Carusotto, and Stanford University in the group of Benjamin Lev.
+I have also spent time as a visiting scholar at the [University of Trento with Iacopo Carusotto](https://bec.science.unitn.it/BEC2026/1_Research.php), and Stanford University in the group of [Benjamin Lev](https://levlab.stanford.edu/people/person-3-0).
 
 Take a look at my current work under Projects, and see topics of interest below. I'm always open to collaboration!
 
@@ -25,7 +25,7 @@ Take a look at my current work under Projects, and see topics of interest below.
   - Cold atoms: optical lattices, quantum gas microscopes, Rydberg tweezer arrays, atoms in optical cavities
 - Scientific computing tools: Python, Julia, C++, MATLAB, Mathematica, QuTiP, Linux sysadmin, HPC, Git/GitHub, LaTeX, professional software development practices
 - Numerical techniques: DMRG with ITensorMPS.jl, quantum Monte Carlo in PyALPS, neural network quantum states
-- Mathematics: real and complex analysis, stochastic calculus, linear algebra, Fourier analysis, perturbation theory and asymptotics
+- Mathematics: real and complex analysis, stochastic calculus, differential equations, linear algebra, Fourier analysis, perturbation theory and asymptotics
 - Quantum computing platforms: Rigetti, ORCA, Aegiq, QuEra and D-Wave
 
 ## Physics I would like to explore
@@ -33,7 +33,7 @@ Take a look at my current work under Projects, and see topics of interest below.
 - Quantum error correction and its intersection with open quantum systems and condensed matter
 - Quantum simulation with interacting photons and its implementation in boson samplers
 - Photonic quantum computing
-- Any fun classical and staistical physics problems, e.g. mathematical biology, spin glasses...
+- Any fun classical and statistical physics problems, e.g. mathematical biology, spin glasses...
 - Intersection of many-body quantum physics with nuclear physics, high-energy physics and general relativity
 
 ## Techniques I would like to learn
