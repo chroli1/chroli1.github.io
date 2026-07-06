@@ -14,20 +14,20 @@ Take a look at my current work under Projects, and see topics of interest below.
 📄 **[Download my CV]({{ "/files/CV.pdf" | relative_url }})**
 
 ## Expertise
-- Open quantum systems: Linblad master equations and dissipative phase transitions
-- Cavity QED
-- Quantum feedback and quantum control
-- Neutral atom quantum computing theory and applications
-- Hybrid classical/quantum computing methods for quantum optimisation (quantum annealing, QAOA and VQE)
-- Topological band theory and the quantum Hall effect
-- Experimental platforms: 
+- **Physics**:
+  - Open quantum systems: Linblad master equations, dissipative phase transitions
+  - Cavity QED
+  - Quantum feedback
+  - Hybrid quantum computing methods for quantum optimisation (quantum annealing, QAOA and VQE)
+  - Topological band theory and the quantum Hall effect
+- **Experimental platforms**: 
   - Photonics: coupled waveguide arrays, boson samplers
   - Cold atoms: optical lattices, quantum gas microscopes, Rydberg tweezer arrays, atoms in optical cavities
-- Scientific computing tools: Python, Julia, C++, MATLAB, Mathematica, QuTiP, Linux sysadmin, HPC, Git/GitHub, LaTeX, professional software development practices
-- Numerical techniques: DMRG with ITensorMPS.jl, quantum Monte Carlo in PyALPS, neural network quantum states
-- Mathematics: real and complex analysis, stochastic calculus, differential equations, linear algebra, Fourier analysis, perturbation theory and asymptotics
-- Quantum computing platforms: Rigetti, ORCA, Aegiq, QuEra and D-Wave
-- Generative AI tools: MS Copilot and Claude to streamline workflows
+- **Scientific computing tools**: Python, Julia, C++, MATLAB, Mathematica, QuTiP, Linux sysadmin, HPC, Git/GitHub, professional software development practices, LaTeX
+- **Numerical techniques**: DMRG with ITensor.jl and ITensorMPS.jl, quantum Monte Carlo in PyALPS, neural network quantum states
+- **Mathematics**: real and complex analysis, stochastic calculus, differential equations, linear algebra, Fourier analysis, perturbation theory and asymptotics
+- **Quantum computing platforms**: Rigetti, ORCA, Aegiq, QuEra and D-Wave
+- **Generative AI tools**: MS Copilot and Claude to streamline workflows
 
 ## Physics I would like to explore
 - Quantum biology

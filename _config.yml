@@ -1,12 +1,13 @@
 title: "Chris Oliver"
 name: "Chris Oliver"
 description: "Postdoc in open quantum systems"
-url: "https://yourusername.github.io"
+url: "https://chroli1.github.io"
 baseurl: ""
-repository: "yourusername/yourusername.github.io"
+repository: "chroli1/chroli1.github.io"
 
 plugins:
   - jekyll-scholar
+  - jemoji
 
 markdown: kramdown
 kramdown:
@@ -27,15 +28,15 @@ exclude:
 
 author:
   name: "Chris Oliver"
-  avatar: "/images/profile.png"
+  avatar: "/images/profile.jpg"
   bio: "Postdoc in open quantum systems"
   location: "Glasgow, UK :scotland:"
   employer: "University of Strathclyde"
-  email: ""
-  googlescholar: ""
-  orcid: ""
-  linkedin: ""
-  github: ""
+  email: christopher.oliver AT strath.ac.uk
+  googlescholar: https://scholar.google.com/citations?user=4Mzopb4AAAAJ&hl=en
+  orcid: 0009-0003-3135-5592
+  linkedin: https://www.linkedin.com/in/chris-oliver-a537181ab/
+  github: https://github.com/chroli1
 
 collections:
   talks:
@@ -78,6 +79,12 @@ defaults:
   - scope:
       path: ""
       type: blackboard
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: other-stuff
     values:
       layout: single
       author_profile: true
