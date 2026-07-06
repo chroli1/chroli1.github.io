@@ -11,8 +11,6 @@ I have also spent time as a visiting scholar at the [University of Trento with I
 
 Take a look at my current work under Projects, and see topics of interest below. I'm always open to collaboration!
 
-[📄 **[Download my CV]({{ "/files/CV.pdf" | relative_url }})**]: # 
-
 ## Expertise
 - **Physics**:
   - Open quantum systems: Linblad master equations, dissipative phase transitions
