@@ -1,5 +1,5 @@
 ---
-title: "PT--symmetry breaking phase transitions in an LMG dimer"
+title: "PT-symmetry breaking phase transitions in an LMG dimer"
 collection: talks
 type: "Conference Talk"
 venue: "European Workshop on Open Quantum Systems (EWOQS)"

@@ -1,5 +1,7 @@
 ---
 layout: home
+title: "Other Stuff"
+permalink: /other_stuff/
 author_profile: true
 ---
 
