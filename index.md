@@ -29,6 +29,7 @@ Take a look at my current work under Projects, and see topics of interest below.
 
 ## Physics I would like to explore
 - Quantum biology
+- Quantum thermodynamics
 - Quantum error correction and its intersection with open quantum systems and condensed matter
 - Quantum simulation with interacting photons and its implementation in boson samplers
 - Photonic quantum computing
