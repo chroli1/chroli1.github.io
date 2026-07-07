@@ -11,6 +11,8 @@ I have also spent time as a visiting scholar at the [University of Trento with I
 
 Take a look at my current work under Projects, and see topics of interest below. I'm always open to collaboration!
 
+### :loudspeaker: **Latest paper, July 2026**: [PT-symmetry breaking phase transitions in an LMG dimer](https://arxiv.org/abs/2504.18426)
+
 ## Expertise
 - **Physics**:
   - Open quantum systems: Linblad master equations, dissipative phase transitions
